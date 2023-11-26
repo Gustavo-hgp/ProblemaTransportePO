@@ -99,8 +99,8 @@ ________________________________________________________________________________
 
 ## Autores
 
-- [@Gustavo Pedrosa]()
-- [@Mariana Gonçalves]()
+- [@Gustavo Henrique Garcias Pedrosa]()
+- [@Mariana Gonçalves de Souza]()
 
 
 ## Referência e fontes 
