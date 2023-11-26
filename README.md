@@ -18,7 +18,7 @@ Através da comparação vemos qual método é melhor para determinada solução
 
 A fabrica de doce GM localizada em Belo Horizonte, tem 9 filiais no sul e sudeste do brasil. A produção foi direcionada pra atender diversos estados do norte e nordeste que ainda nao contam com filiais fisicas da fabrica. as 10 filiais devem atender 26 estados e o distrito federal, totalizando 27 locais de demanda. Usando o algoritimo de custo minimo e canto noroesta vamos descobrir quanto deve ser produzido e entregue por cada fábrica em cada centro consumidor, de forma a minimizar os custos de transporte.
 
-Os 27 locais tem uma demanda de 43915 barrasde chocolates por semana, sendo divididas por:
+Os 27 locais tem uma demanda de 43915 barras de chocolates por semana, sendo divididas por:
 ```bash
 1208, 1823, 1685, 1894, 1456,
 1721, 1123, 1342, 1167, 1530,
@@ -46,6 +46,26 @@ Com os custos de transporte de cada filial representados abaixo:
 {17, 20, 28, 25, 23, 27, 26, 17, 27, 26, 19, 16, 20, 20, 28, 23, 17, 19, 18, 29, 20, 22, 20, 29, 25, 30, 23}
 {20, 29, 30, 27, 18, 29, 25, 19, 20, 28, 16, 28, 19, 29, 26, 22, 19, 18, 22, 17, 29, 29, 18, 19, 26, 28, 20}
 {28, 19, 20, 27, 20, 20, 20, 17, 23, 29, 18, 20, 19, 20, 29, 23, 18, 17, 17, 18, 23, 18, 22, 29, 23, 19, 27}
+```
+
+```bash
+            |                       Estados Consumidores
+Fornecedores|  Amazonas Amapa ... Minas Sao Paulo .... Santa Catarina...  | Capacidade
+fabrica 1   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3896
+fabrica 2   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3569
+fabrica 3   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3516
+fabrica 4   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4434
+fabrica 5   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4445
+fabrica 6   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3676
+fabrica 7   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3941
+fabrica 8   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4502
+fabrica 9   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4123
+fabrica 10  | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4193
+____________________________________________________________________________________
+Demanda     |  1208... 1823 ..demanda24... demanda25... demanda26... 1685 | Capacidade = demanada = 43915
+
+
+
 ```
 
 - xij = Quantidade transportada da fábrica i para o centro consumidor j
@@ -99,8 +119,8 @@ ________________________________________________________________________________
 
 ## Autores
 
-- [@Gustavo Henrique Garcias Pedrosa]()
-- [@Mariana Gonçalves de Souza]()
+- [@Gustavo Pedrosa]()
+- [@Mariana Gonçalves]()
 
 
 ## Referência e fontes 
