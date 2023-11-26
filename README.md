@@ -50,19 +50,19 @@ Com os custos de transporte de cada filial representados abaixo:
 
 ```bash
             |                       Estados Consumidores
-Fornecedores|  Amazonas Amapa ... Minas Sao Paulo .... Santa Catarina...  | Capacidade
-fabrica 1   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3896
-fabrica 2   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3569
-fabrica 3   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3516
-fabrica 4   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4434
-fabrica 5   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4445
-fabrica 6   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3676
-fabrica 7   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 3941
-fabrica 8   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4502
-fabrica 9   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4123
-fabrica 10  | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij| 4193
+Fornecedores|  Amazonas Amapa ... Minas Sao Paulo .... Santa Catarina...   | Capacidade
+fabrica 1   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 3896
+fabrica 2   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 3569
+fabrica 3   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 3516
+fabrica 4   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 4434
+fabrica 5   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 4445
+fabrica 6   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 3676
+fabrica 7   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 3941
+fabrica 8   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 4502
+fabrica 9   | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 4123
+fabrica 10  | Xij  Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij Xij | 4193
 ____________________________________________________________________________________
-Demanda     |  1208... 1823 ..demanda24... demanda25... demanda26... 1685 | Capacidade = demanada = 43915
+Demanda     |  1208... 1823 ..demanda24... demanda25... demanda26... 1685  | Capacidade = demanada = 43915
 
 
 
